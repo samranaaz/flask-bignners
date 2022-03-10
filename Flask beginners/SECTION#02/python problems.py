@@ -351,9 +351,9 @@ def problem26():
      #     if num > 0:
      #         positive_num += 1
      #         break
+     print("hello")
 
-
-     print("positive numbers from n numbers: ", positive_num)
+     print("positive numbers from n numbers: ", n)
 
 
 # . Calculate the factorial of a positive integer entered by the user.
